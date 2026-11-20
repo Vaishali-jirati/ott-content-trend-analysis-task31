@@ -3,7 +3,7 @@
 End-to-end exploratory data analysis (EDA), SQL aggregation queries, visual charts, and a content strategy memo on the Netflix titles dataset (**8,807 titles**).
 
 ## Project Overview
-This project examines catalog composition, release trends, genres, countries, audience ratings, and movie durations on Netflix to identify clear content and programming takeaways.
+This 5-day project examines catalog composition, release trends, genres, countries, audience ratings, and movie durations on Netflix to turn raw catalog data into clear content strategy insights[cite: 11, 12].
 
 ## Key Highlights
 - **Content Split:** **6,131 Movies (69.6%)** and **2,676 TV Shows (30.4%)**, showing a movie-heavy catalog alongside steady TV show growth in recent years.
